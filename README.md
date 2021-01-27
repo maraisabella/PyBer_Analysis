@@ -14,15 +14,17 @@ In addition, the goal was to demonstrate our results by visualizing with graphs 
 
 ## PyBer Results:
 
+![](Resources/summary.png)
+
 ### Total Rides
 - Rural        125
 - Suburban     625
 - Urban       1,625
 
 ### Total Drivers
-- Rural         537
-- Suburban     8,570
-- Urban       59,602
+- Rural          78
+- Suburban      490
+- Urban       1,625
 
 ### Total Fares
 - Rural        $4,327.93
@@ -35,9 +37,9 @@ In addition, the goal was to demonstrate our results by visualizing with graphs 
 - Urban       $24.525772
 
 ### Average Fare Per Driver
-- Rural       8.059460
-- Suburban    2.258615
-- Urban       0.668675
+- Rural       55.486282
+- Suburban    39.502714
+- Urban       16.571468
 
 ### Total Fare by City Type
 
