@@ -17,17 +17,17 @@ In addition, the goal was to demonstrate our results by visualizing with graphs 
 ### Total Rides
 - Rural        125
 - Suburban     625
-- Urban       1625
+- Urban       1,625
 
 ### Total Drivers
 - Rural         537
-- Suburban     8570
-- Urban       59602
+- Suburban     8,570
+- Urban       59,602
 
 ### Total Fares
-- Rural        $4327.93
-- Suburban    $19356.33
-- Urban       $39854.38
+- Rural        $4,327.93
+- Suburban    $19,356.33
+- Urban       $39,854.38
 
 ### Average Fare Per Ride 
 - Rural       $34.623440
