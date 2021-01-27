@@ -50,6 +50,8 @@ To help aid this issue, the following recommendations are given to the CEO of Py
 
 - To help lower prices primarily in rural, but also in urban, implement the addition of more drivers to the area as a way of lesseining the gap noted between these two types of cities and urban cities.
 
+- Analyze the supply vs. demand more closely between different city types.
+
 - In urban cities, increase the the average fare price even if a slight amount to help lessen costs of fares in rural and suburban cities.
 
 - In addition to more drivers, increase the amount of rides offered in rural cities particularly.
